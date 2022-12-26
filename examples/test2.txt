@@ -1,0 +1,11 @@
+
+
+variable := variable2:= 'Esto deberia de funcionar';
+
+variable2:=4;
+escribir(variable);
+escribir(variable2);
+
+leer(variable2);
+escribir(variable2);
+
